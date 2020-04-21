@@ -1,0 +1,10 @@
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerDAL\bin\Debug\StudentManagerDAL.dll
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerDAL\bin\Debug\StudentManagerDAL.pdb
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerDAL\bin\Debug\StudentManagerModel.dll
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerDAL\bin\Debug\StudentManagerModel.pdb
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerDAL\obj\Debug\StudentManagerDAL.csprojAssemblyReference.cache
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerDAL\obj\Debug\StudentManagerDAL.csproj.CopyComplete
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerDAL\obj\Debug\StudentManagerDAL.dll
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerDAL\obj\Debug\StudentManagerDAL.pdb
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerDAL\bin\Debug\Common.dll
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerDAL\bin\Debug\Common.pdb

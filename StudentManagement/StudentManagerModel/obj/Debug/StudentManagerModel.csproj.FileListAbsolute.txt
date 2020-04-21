@@ -1,0 +1,5 @@
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerModel\bin\Debug\StudentManagerModel.dll
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerModel\bin\Debug\StudentManagerModel.pdb
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerModel\obj\Debug\StudentManagerModel.csprojAssemblyReference.cache
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerModel\obj\Debug\StudentManagerModel.dll
+D:\.net\SQLServer\20200121\StudentManagement\StudentManagerModel\obj\Debug\StudentManagerModel.pdb
